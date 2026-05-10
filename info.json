@@ -1,7 +1,6 @@
 {
     "name": "SharpUp",
     "version": "0.0.1",
-    "uuid": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b",
     "command": "sharpup",
     "type": ".net",
     "repository": "https://github.com/nukeratarmory/SharpUp",
